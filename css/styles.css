@@ -26,13 +26,14 @@ a:hover{
 }
 h2 {
     font-size: 2.5rem;
-    color: #66BFBF;
+    color: #11999E;
     font-weight: normal;
     padding-bottom: 10px;
 }
 
 h3 {
-    color: #11999E;
+    
+    color: #66BFBF;
 }
 
 hr{
@@ -41,6 +42,11 @@ hr{
     width: 4%;
     margin: 100px auto;
 }
+
+.temp{
+    color: #66BFBF;
+}
+
 .top {
     background-color: #e4f9f5;
     padding-top: 180px;
